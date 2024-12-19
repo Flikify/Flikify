@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to web development, JavaScript, and cloud technologies.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [email@example.com](mailto:github@92coco.cn)
 - ⚡ Fun fact: I love playing video games and exploring new tech gadgets.
 
 ## My Skills
